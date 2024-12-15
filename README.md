@@ -1,8 +1,8 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hi, I'm Trần Phong!
 
-I'm a passionate developer with a strong focus on building **innovative backend systems** using modern technologies. I believe in creativity and don't just build traditional CRUD backends—I'm always looking to explore new technologies to create unique and cutting-edge projects.
+I’m a developer passionate about creating **innovative backend systems** using modern technologies. I don’t just build traditional CRUD apps; I enjoy using new tech to create **unique and exciting projects**.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies I Use
 
 - **Backend Development**:  
   - Node.js ⚡  
@@ -19,18 +19,18 @@ I'm a passionate developer with a strong focus on building **innovative backend 
   - Jest 🧪  
   - Swagger 📑  
 
-## 🚀 My Programming Philosophy
+## 🚀 My Approach to Coding
 
-I thrive on creativity and pushing the boundaries of what's possible with technology. Instead of sticking to conventional CRUD apps, I strive to build systems that are **novel** and **cutting-edge** by leveraging modern tools and methodologies. My goal is to create **innovative** and **scalable** backend solutions that stand out.
+I focus on being **creative** with my coding. Instead of just building basic backend systems, I try to make each project **new** and **exciting** by using the latest technologies. My goal is to build **innovative** and **scalable** systems.
 
 ## 🧠 Fast Learner & Problem Solver
 
-One of my strengths is my ability to **quickly grasp new technologies** and adapt to new challenges. I am always eager to learn and improve, tackling complex problems with a fresh perspective and a strong problem-solving mindset.
+I’m good at **picking up new technologies quickly** and solving tough problems. I’m always excited to learn new things and find creative solutions to challenges.
 
-## 📬 Let's Connect
+## 📬 Let’s Connect
 
-Feel free to check out my repositories and contact me if you'd like to collaborate or discuss any exciting project ideas! I'm always open to new opportunities and challenges.
+Feel free to check out my projects or get in touch if you want to collaborate or talk about new ideas! I’m always open to learning and working on interesting projects.
+
+You can reach me at: [tranphong.programmer@gmail.com]
 
 ---
-
-[Your Contact Information or Social Links]
